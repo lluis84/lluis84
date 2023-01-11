@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lluis84
 - 👀 I’m interested in data sciencie
-- 🌱 I’m currently learning web scrapping
+- 🌱 I’m currently learning web matching learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
